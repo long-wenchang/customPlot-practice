@@ -1,1 +1,1 @@
-# customPlot-practice
+这是qcustomPlot在Qt 5.12.12版本中的示例代码，对应qcustomPlot官网首页下的18个示例代码。
